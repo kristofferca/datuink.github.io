@@ -1,0 +1,30 @@
+.topColor {
+	background: #eee;
+	box-shadow: 0 8px 6px -6px #ddd;
+}
+
+.topTitle {
+	padding: 0 30px;
+	margin: 0 20px;
+}
+
+.topTitle a {
+	color: #999;
+	transition: color 0.9s ease;
+}
+
+.topTitle a:hover {
+	color: tomato;
+}
+
+
+
+.topNav {
+		margin: .40em 20px;
+	}
+
+.topNav 
+	li {
+		font-size: 1.5em; 
+		padding: 0 30px;
+	}

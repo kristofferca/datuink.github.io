@@ -1,0 +1,52 @@
+@media (max-width: 1025px){
+ 
+  .topTitle {
+    text-align: center;
+    color: tomato;
+
+  }
+
+  .topTitle a {
+  	color: tomato;
+  }
+  
+  .topNav {
+	text-align: center;	
+	font-size: 1rem;
+  }
+
+  .topNav li {
+  	margin-right: 1rem;
+  	text-align: center;
+  	float: none;
+  	display: inline-block;
+  }
+}
+
+@media (min-width: 1026px) {
+	.topNav{
+		float: right;
+	}
+}
+
+@media (max-width: 720px) {
+	#footer {
+		font-size: 1.2rem;
+		text-align: center;
+	}
+
+	.alignmedia {
+		text-align: center;
+	}
+}
+
+@media (max-width: 565px) {
+	.topNav li {
+		font-size: 1em;
+			display: inline-block;
+		margin: 0px;
+		padding: 10px;
+	}
+
+
+}

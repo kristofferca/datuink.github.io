@@ -1,0 +1,23 @@
+.footerColor {
+	color: tomato;
+	background: tomato;
+}
+
+.footerColor h3 {
+	margin-top: 5px;
+	margin-left: 0px;
+}
+
+.footer {
+	margin: 12px 100px;
+}
+
+#footer {
+	color: #fff;
+	transition: color 0.9s ease;
+}
+
+#footer:hover {
+	color: #eee;
+}
+
